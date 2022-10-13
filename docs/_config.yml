@@ -21,7 +21,7 @@
 title: Chineselist
 email: chineselist.fi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Chineselist 信息站
+  信息站
 domain: c.chineselist.fi # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://c.chineselist.fi # the base hostname & protocol for your site, e.g. http://example.com
